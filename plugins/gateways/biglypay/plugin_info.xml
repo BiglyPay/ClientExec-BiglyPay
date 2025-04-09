@@ -1,0 +1,7 @@
+<plugin>
+    <name>BiglyPay</name>
+    <type>gateway</type>
+    <version>1.0</version>
+    <description>Accept cryptocurrency payments using BiglyPay with automatic verification and transaction logging.</description>
+    <author>BiglyBucks</author>
+</plugin>
